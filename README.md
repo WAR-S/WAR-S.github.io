@@ -2,4 +2,4 @@
 
 
 
- ![alt text](Резюме.png)
+ ![alt text](1.png)
