@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html,
+body {
+    height: 100%;
+    background-image: url("1.jpg");
+    background-size: cover;	
+    backdrop-filter: blur(5px);
+    height: 100%;
+}
+.wrapper {
+	position: relative;
+    min-height: 100%;
+    
+}
+.content {
+	padding-bottom: 90px;
+}
+.footer {
+	position: absolute;
+	left: -20px;
+	bottom: 0px;
+	width: 120%;
+    height: 80px;
+    background-color: rgb(51, 69, 80);
+}
+
+.start {
+    font-size: 400%;
+    color:rgb(0, 0, 0);
+    background-color: aqua;
+    font-family: monospace;
+    height: 50px;
+    width: 500px;
+    
+}
+
+/*
+body {
+    background-image: url("1.jpg");
+    background-size: cover;	
+    backdrop-filter: blur(5px);
+    height: 100%;
+}*/
+
+/*
+.footer {
+    
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    width: 100%; /* Ширина слоя */
+    background-color: black;
+}
+*/
